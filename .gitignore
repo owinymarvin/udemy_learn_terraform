@@ -3,3 +3,6 @@
 *.tfstate.backup
 .terraform.rc
 .env
+.aws/
+*credentials
+credentials*
